@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/erichcshen/my0615/_apis/build/status/eric-hcshen.calculator?branchName=master)](https://dev.azure.com/erichcshen/my0615/_build/latest?definitionId=13&branchName=master)
+==============================================
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
